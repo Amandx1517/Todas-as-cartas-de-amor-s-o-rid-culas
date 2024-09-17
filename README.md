@@ -1,2 +1,2 @@
-# Todas-as-cartas-de-amor-s-o-rid-culas
+#cartasridiculas
 Poema Todas as cartas de amor são ridículas de Álvaro de Campos
