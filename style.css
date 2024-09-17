@@ -1,8 +1,58 @@
 *{
-    margin: 0;
     padding: 0;
-}img{
-    width: 500px;
+    margin: 0;
 }body{
-    background-color: rgb(214, 166, 214);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    
+}#gg{
+    background-color: rgb(47, 8, 83);
+    color: white;
+    text-align: center;
+    height: 200px;
+}#ii{
+padding: 25px;
+width: 100vw;
+background-image: url("https://4.bp.blogspot.com/-zJYns2FI4Cg/WMt0dlwWIZI/AAAAAAAAY6k/CkygztQ5rlwhThbFR1kVJforgVbXURS0wCEw/w1200-h630-p-k-no-nu/rose-love-letter.jpg");
+background-size: cover;
+height: 80vh;
+background-attachment: fixed;
+}#BB{
+    padding: 25px;
+    width: 20%;
+}#tt{
+    padding: 25px;
+    width: 20%;
+}#amor{
+    padding: 25px;
+    width: 100vw;
+    background-image: url("https://th.bing.com/th/id/OIP.aTThU2iD9uozlGulIkmpkwHaE7?w=626&h=417&rs=1&pid=ImgDetMain");
+    background-size: cover;
+    height: 80vh;
+    background-attachment: fixed;
+}#vida{
+    padding: 25px;
+    width: 20%;
+}#mm{
+    padding: 25px;
+    width: 20%;
+}#oo{
+    padding: 25px;
+    width: 20%;
+}#rvd{
+width: 20%;
+background-color: rgba(255, 255, 255, 0.479);
+border-radius: 10px;
+padding: 20px;
+height: 20vh;
+}#my{
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0.479);
+    border-radius: 10px;
+    padding: 20px;
+    height: 20vh;
+    
+}#moo{
+    padding: 10px;
 }
